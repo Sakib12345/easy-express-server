@@ -1,4 +1,4 @@
-# Easy Express - A e-commerce web application.
+# Easy Express - An e-commerce web application.
 
 Features:
 
